@@ -1,2 +1,3 @@
-# Amrita-1
+# Repo-1
 It's my first repository 
+Author:Amrita Singh
